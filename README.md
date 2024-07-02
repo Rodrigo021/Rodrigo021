@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## My name is Rodrigo, i'm from Brazil and currently an aspiring data scientist and P&D machine learning.
+## My name is Rodrigo, i'm from Brazil and currently an aspiring data scientist and back-end developer.
 
 #### Skills:
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
